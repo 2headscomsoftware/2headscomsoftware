@@ -11,7 +11,7 @@ and the safety layers that make autonomous systems trustworthy.
 
 - **[Prometheus Code](https://github.com/2headscomsoftware/prometheus-code-sample)** — local-first agentic IDE: autonomous agent loop, 15+ policy-gated tools, local LLM infra, E2E team relay. *(public code sample — full source on request)*
 - **[2-heads.com](https://2-heads.com)** — portfolio & production platforms
-- **S.O.S Animal · Yo Trabajo** — platforms in production (web + Android): geolocation, real-time chat, interactive maps
+- **[S.O.S Animal](https://play.google.com/store/apps/details?id=com.sosanimal.app) · Yo Trabajo** — platforms in production (web + Android): geolocation, real-time chat, interactive maps
 - **Unified** — cloud storage unifier for Android (Kotlin + Cloudflare Workers · in development)
 
 ### Contact
